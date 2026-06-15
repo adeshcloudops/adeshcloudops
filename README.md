@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ketan%20Dhadve&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20Automation%20Expert&descAlignY=62&descSize=18&descColor=a5b4fc"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Ketan Dhadve</h1>
+<h1 align="center">👋 Hi, I'm Adesh</h1>
 
 <p align="center">
   ⚙️ <b>DevOps Engineer</b> &nbsp;|&nbsp; ☁️ <b>AWS Cloud Enthusiast</b> &nbsp;|&nbsp; 🐳 <b>Docker & Kubernetes</b> &nbsp;|&nbsp; 🔧 <b>Automation Expert</b>
@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Ketan Dhadve**, a passionate **DevOps Engineer** based in **Pune, Maharashtra, India**. I bring hands-on experience from my tenure at **Hisan Lab Private Limited**, where I worked on real-world DevOps practices including CI/CD pipeline development, containerization, and cloud infrastructure management.
+Hello! I'm **Adesh Dorge**, a passionate **DevOps Engineer** based in **Pune, Maharashtra, India**. I bring hands-on experience from my tenure at **Hisan Lab Private Limited**, where I worked on real-world DevOps practices including CI/CD pipeline development, containerization, and cloud infrastructure management.
 
 My expertise lies in bridging the gap between **Development** and **Operations** — ensuring software is not only built efficiently but also deployed, scaled, and monitored reliably. I am a firm believer in the **"automate everything"** philosophy and continuously strive to eliminate manual, repetitive tasks through smart tooling.
 
@@ -29,15 +29,15 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 - 📍 **Location:** Pune, Maharashtra, India
 - 🎓 **Certified:** DevOps Professional
 - 💼 **Status:** Open to New Opportunities
-- 📧 **Email:** ketandhadve95@gmail.com
-- 🌐 **GitHub:** [CloudwithKetan](https://github.com/CloudwithKetan)
+- 📧 **Email:** adeshsdorge@gmail.com
+- 🌐 **GitHub:** [adeshcloudops](https://github.com/adeshcloudops)
 
 ---
 
 ## 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,git,github,jenkins,ansible,python,bash,grafana,prometheus,nginx,mysql" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,git,github,jenkins,bash,grafana,prometheus" />
 </p>
 
 ### 🔧 Tools & Technologies
@@ -47,12 +47,10 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 | ☁️ Cloud | AWS (EC2, S3, VPC, IAM, RDS) |
 | 🐳 Containers | Docker, Kubernetes (K8s) |
 | ⚙️ CI/CD | Jenkins, GitHub Actions |
-| 🏗️ IaC | Terraform, Ansible |
+| 🏗️ IaC | Terraform |
 | 🐧 OS | Linux (Ubuntu, CentOS) |
 | 📊 Monitoring | Prometheus, Grafana |
 | 🔀 Version Control | Git, GitHub |
-| 🌐 Web Server | Nginx |
-| 🗄️ Database | MySQL |
 | 🐍 Scripting | Python, Bash |
 
 ---
@@ -60,7 +58,7 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 ## 💼 Professional Experience
 
 ### 🏢 DevOps Engineer — Hisan Lab Private Limited
-📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Internship (6-9 Months)
+📍 Pune, Maharashtra &nbsp;|&nbsp; 📅 Internship (6 Months)
 
 - ✅ Designed and implemented **CI/CD pipelines** using Jenkins for automated build, test, and deployment workflows
 - ✅ Containerized applications using **Docker** and managed multi-container setups with Docker Compose
@@ -118,14 +116,6 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 
 <p align="center">
   <img src="https://github.com/CloudwithKetan/CloudwithKetan/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CloudwithKetan&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
