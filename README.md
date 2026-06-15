@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CloudwithKetan&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/CloudwithKetan?label=Followers&style=flat&color=0ea5e9" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=adeshcloudops&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/adeshcloudops?label=Followers&style=flat&color=0ea5e9" alt="Followers" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 
 ## 🚀 Featured Projects
 
-### 📦 [EasyCRUD-docker-updated](https://github.com/CloudwithKetan/EasyCRUD-docker-updated)
+### 📦 [EasyCRUD-docker-updated](https://github.com/adeshcloudops/EasyCRUD-docker-updated)
 > A full-stack CRUD application fully containerized with **Docker**. Demonstrates ability to dockerize applications, manage dependencies, and ensure environment consistency from development to production.
 
 **Tech Stack:** `Docker` `Docker Compose` `JavaScript` `Node.js`
@@ -101,21 +101,21 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudwithKetan&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshcloudops&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CloudwithKetan&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adeshcloudops&theme=tokyo-night&hide_border=true"/>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/CloudwithKetan/CloudwithKetan/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/adeshcloudops/adeshcloudops/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
