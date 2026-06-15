@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ketan%20Dhadve&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20Automation%20Expert&descAlignY=62&descSize=18&descColor=a5b4fc"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Adesh%20Dorge&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20Automation%20Expert&descAlignY=62&descSize=18&descColor=a5b4fc"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Adesh</h1>
+<h1 align="center">👋 Hi, I'm Adesh Dorge</h1>
 
 <p align="center">
   ⚙️ <b>DevOps Engineer</b> &nbsp;|&nbsp; ☁️ <b>AWS Cloud Enthusiast</b> &nbsp;|&nbsp; 🐳 <b>Docker & Kubernetes</b> &nbsp;|&nbsp; 🔧 <b>Automation Expert</b>
@@ -96,8 +96,8 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CloudwithKetan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=CloudwithKetan&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adeshcloudops&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=adeshcloudops&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -123,19 +123,15 @@ My expertise lies in bridging the gap between **Development** and **Operations**
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ketan-dhadve-697a49357/" target="_blank">
+  <a href="https://www.linkedin.com/in/adesh-dorge-48a0a63b1" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_k_e_t_u_u_u_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ketandhadve95@gmail.com" target="_blank">
+  <a href="mailto:adeshsdorge" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/CloudwithKetan" target="_blank">
+  <a href="https://github.com/adeshcloudops" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
